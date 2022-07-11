@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="/Users/vigneshs/Udemy-Channel/Selenium/Udemy-Selenium-Framework">
+        <classes>
+            <class name="com.Bolttech.runner.CucumberRunnerTests">
+            </class>
+        </classes>
+    </test>
+</suite>
